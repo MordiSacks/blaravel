@@ -8,6 +8,11 @@
 `composer create-project --prefer-dist blaravel/blaravel blog`
 
 ## Main differences
+
+### 1.1.0
+* layout has title section. 
+
+### 1.0.0
 * User model is now in Models folder.
 * HTTPS is forced (if available).
 * Ships with `laravel-ide-helper` & `doctrine/dbal`.
