@@ -5,7 +5,7 @@
 | Helpers File
 |--------------------------------------------------------------------------
 |
-| Use this file for arbitrary global function.
+| Use this file for arbitrary global functions.
 | It is recommended to use function_exists around functions
 |
 */
