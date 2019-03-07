@@ -4,6 +4,9 @@
 
 #### based on [laravel/laravel 5.8.3](https://github.com/laravel/laravel/tree/v5.8.3) 
 
+### usage
+`composer create-project --prefer-dist blaravel/blaravel blog`
+
 ## Main differences
 * User model is now in Models folder.
 * HTTPS is forced (if available).
@@ -18,4 +21,7 @@
 * Ships with `artisan make:auth` ran.  
 
 ### For Official laravel documentation go [here](https://laravel.com/docs) 
-   
+
+## License
+
+BLaravel is based on Laravel and is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
