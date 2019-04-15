@@ -9,6 +9,9 @@
 
 ## Main differences
 
+### 1.1.1
+* Removed `daemonite-material`.
+
 ### 1.1.0
 * layout has title section. 
 

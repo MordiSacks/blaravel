@@ -4,4 +4,4 @@ require('./jquery');
 
 require('./axios');
 
-require('./echo');
+//require('./echo');

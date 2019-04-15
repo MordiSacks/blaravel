@@ -9,6 +9,5 @@ try {
     window.$ = window.jQuery = require('jquery');
 
     require('bootstrap');
-    require('daemonite-material/js/material');
 } catch (e) {
 }
