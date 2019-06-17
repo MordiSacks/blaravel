@@ -2,12 +2,15 @@
 
 **BLaravel** is Laravel but with a few boilerplate tweaks.  
 
-#### based on [laravel/laravel 5.8.3](https://github.com/laravel/laravel/tree/v5.8.3) 
+#### based on [laravel/laravel 5.8.17](https://github.com/laravel/laravel/tree/v5.8.3) 
 
 ### usage
 `composer create-project --prefer-dist blaravel/blaravel blog`
 
 ## Main differences
+
+### 1.1.2
+* Updated to laravel 5.8.17
 
 ### 1.1.1
 * Removed `daemonite-material`.
